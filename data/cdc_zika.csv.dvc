@@ -1,0 +1,4 @@
+outs:
+- md5: bac0d13cd1b016a5b2450d897a6fb834
+  size: 9701909
+  path: cdc_zika.csv
